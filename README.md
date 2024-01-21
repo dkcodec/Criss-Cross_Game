@@ -2,69 +2,40 @@
 
 You can try game here [Criss-Cross](https://dkcodec.github.io/Criss-Cross_Game/)
 
-This project was created with [React Dev Tutorial](https://react.dev/learn/tutorial-tic-tac-toe).
-
 ## What I used?
 
-### `npm start`
+This project was created with [React Dev Tutorial](https://react.dev/learn/tutorial-tic-tac-toe).
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+Also to learn React [React documentation](https://reactjs.org/).
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+### Feature
 
-### `npm test`
+#### Whose turn is it now
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+    A little block above game board for next turn
 
-### `npm run build`
+#### Move history
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+    After each move will appear a buttons for checking previous moves
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+#### Who won
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+    Break the game if someone win and show winner
 
-### `npm run eject`
+### Examples
 
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
-
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
-
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
-
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
+    #### Game start
+    ![GameStart](./public/game-screens/Game-start.png)
+    #### After 1st move
+    ![1Move](./public/game-screens/1move.png)
+    #### After 2nd move
+    ![2Move](./public/game-screens/2move.png)
+    #### X - won
+    ![WinMove](./public/game-screens/Nmove.png)
+    #### Check previous move(3d move)
+    ![BackToMove](./public/game-screens/backTo3move.png)
 
 ### Deployment
 
+Deployed by GitHub Pages
 This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
