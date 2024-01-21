@@ -1,10 +1,10 @@
 {
   "files": {
-    "main.css": "/Criss-Cross_game/static/css/main.9e4dde9c.css",
-    "main.js": "/Criss-Cross_game/static/js/main.f9b49a89.js",
-    "index.html": "/Criss-Cross_game/index.html",
-    "main.9e4dde9c.css.map": "/Criss-Cross_game/static/css/main.9e4dde9c.css.map",
-    "main.f9b49a89.js.map": "/Criss-Cross_game/static/js/main.f9b49a89.js.map"
+    "main.css": "/Criss-Cross_Game/static/css/main.9e4dde9c.css",
+    "main.js": "/Criss-Cross_Game/static/js/main.f9b49a89.js",
+    "index.html": "/Criss-Cross_Game/index.html",
+    "main.9e4dde9c.css.map": "/Criss-Cross_Game/static/css/main.9e4dde9c.css.map",
+    "main.f9b49a89.js.map": "/Criss-Cross_Game/static/js/main.f9b49a89.js.map"
   },
   "entrypoints": [
     "static/css/main.9e4dde9c.css",
