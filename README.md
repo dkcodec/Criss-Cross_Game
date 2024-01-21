@@ -1,10 +1,10 @@
-# Getting Started with Create React App
+# Criss Cross geme
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+You can try game here [Criss-Cross](https://dkcodec.github.io/Criss-Cross_Game/)
 
-## Available Scripts
+This project was created with [React Dev Tutorial](https://react.dev/learn/tutorial-tic-tac-toe).
 
-In the project directory, you can run:
+## What I used?
 
 ### `npm start`
 

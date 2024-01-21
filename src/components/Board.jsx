@@ -1,4 +1,3 @@
-import { useState } from "react";
 import calculateWinner from "./calculate";
 import Square from "./Square";
 
